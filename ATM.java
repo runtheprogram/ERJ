@@ -17,7 +17,7 @@ public class ATM {
 
         System.out.print("Please enter your account number: ");
         accountNumber = scanner.nextInt();
-        System.out.println("");
+        System.out.println(""); // this means new line. Para dili mag dikit ang mga ouput.
 
 
         System.out.print("Please enter your PIN: ");
